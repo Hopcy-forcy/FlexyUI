@@ -20,7 +20,8 @@ Création de composants réutilisables: FlexyUI peut être utilisé pour créer 
 
 ## Exemple de code flexyUI pour mettre le style dans une page web
 
-```html: pour créer un carré avec des coins arrondis
+*Créer un carré avec des bordures arrondis*
+```html
 <div ui="bg:red h:100px w:100px round:20px ">
     
 </div>
