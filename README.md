@@ -17,3 +17,13 @@ Création de composants réutilisables: FlexyUI peut être utilisé pour créer 
 
 
 *FlexyUI* est encore en développement, mais il est déjà un outil puissant qui peut être utilisé pour créer des interfaces utilisateur riches et interactives.
+
+## Exemple de code flexyUI pour mettre le style dans une page web
+
+```html: pour créer un carré avec des coins arrondis
+<div ui="bg:red h:100px w:100px round:20px ">
+    
+</div>
+```
+
+
