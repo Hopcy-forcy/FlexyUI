@@ -5,7 +5,8 @@ FlexyUI est un outil puissant qui peut être utilisé pour créer des interfaces
 
 ## Voici quelques-uns des avantages de FlexyUI :
 
-Pas de fichiers: FlexyUI ne crée pas de fichiers, ce qui peut réduire le temps de chargement des pages et améliorer la performance des applications.
+*Pas de fichiers*:
+    FlexyUI ne crée pas de fichiers, ce qui peut réduire le temps de chargement des pages et améliorer la performance des applications.
 Code volatil: Le code généré est volatil, ce qui signifie qu'il n'est généré que si l'élément est présent sur la page. Cela peut aider à réduire la taille du code et à améliorer les performances.
 IA: FlexyUI utilise des techniques d'IA pour générer le code, ce qui permet de créer des styles et des réactions complexes et dynamiques.
 
