@@ -28,4 +28,17 @@ Création de composants réutilisables: FlexyUI peut être utilisé pour créer 
 </div>
 ```
 
+## code dynamique
+
+```jsx
+<ul>
+    <flexy>
+       let names=["papa","maman","moi"] ;
+       names.map(name => {
+            <li>${name}</li>
+       });
+    </flexy>
+<ul>
+```
+
 
